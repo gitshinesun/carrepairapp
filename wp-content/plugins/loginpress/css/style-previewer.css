@@ -1,0 +1,44 @@
+/**
+ * Style Sceet for Customizer Previewer.
+ * @since 1.0.23
+ */
+.login h1{
+	position: relative;
+}
+body:hover .customize-partial-edit-shortcut button{
+	opacity: 1;
+}
+.login h1 .customize-partial-edit-shortcut{
+	position: absolute;
+  top: -8px;
+  left: 50%;
+  margin-left: 15px;
+  height: 30px;
+  width: 30px;
+	cursor: pointer;
+}
+.customize-partial-edit-shortcut{
+	height: 34px;
+	width: 34px;
+}
+.customize-partial-edit-shortcut button{
+	left: 0;
+}
+.loginpress-presets-partial{
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	cursor: pointer;
+}
+.loginpress-background-partial{
+	position: absolute;
+	top: 55px;
+	left: 10px;
+	cursor: pointer;
+}
+.loginpress-footer-partial{
+	position: absolute;
+	bottom: 5px;
+	left: 10px;
+	cursor: pointer;
+}

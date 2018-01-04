@@ -1,0 +1,202 @@
+.plugin_version_features a {
+    box-shadow: none;
+}
+
+.plugin_version_features {
+    font-family: inherit;
+    line-height: inherit;
+    font-weight: normal;
+}
+
+.plugin_version_features h3.huge_it_features_features, .plugin_version_features h3.huge_it_features_purchase_text,.plugin_version_features h3.huge_it_features_price, .plugin_version_features h3.huge_it_features_price_text {
+    font-weight: normal;
+    margin: 0;
+}
+
+.plugin_version_features.full-width h2.huge_it_features_head {
+    font-weight: normal;
+    margin: 0;
+}
+
+.hugeit_ft_col.hugeit_features_name.hg_ft_col_0 {
+    margin-left: 0;
+}
+
+.plugin_version_features a.huge_it_features_buy_link_a {
+    display: inline-block;
+    width: 70%;
+    text-decoration: none;
+    box-shadow: none;
+    text-align: center;
+    font-weight: 600;
+    position: relative;
+    padding: 8px 0;
+    color: #1BBC9D;
+    border: 2px solid #1BBC9D;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    font-size: 14px;
+    margin: 15px 0;
+}
+
+.plugin_version_features a.huge_it_features_buy_link_a:hover {
+    color: #FFFFFF;
+    background-color: #1BBC9D;
+    border-color: #1BBC9D;
+}
+
+.plugin_version_features .huge_it_features_purchase_text {
+    margin: 15px 0;
+    font-weight: 400;
+}
+
+.hugeit_ft_col {
+    float: left;
+    position: relative;
+    margin-bottom: 10px;
+    border-width: 2px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.huge_it_features {
+    background-color: #dedede;
+    border: none;
+    height: 1px;
+    width: 90%;
+    margin: 0 auto 22px;
+}
+
+.huge_it_best_seller {
+    position: absolute;
+	text-align: center;
+    top: 0;
+    right: 0;
+}
+
+.huge_it_best_seller:after {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    top: 0;
+    content: "";
+}
+
+.huge_it_best_seller span {
+    position: absolute;
+    z-index: 1;
+    display: inline-block;
+    line-height: 1.3;
+}
+
+.plugin_version_features .huge_it_features_purchase_text:last-child {
+    border: 0;
+}
+
+.plugin_version_features .hugeit_ft_col {
+    overflow: hidden;
+    margin-left: 1%;
+    border: 2px solid;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.plugin_version_features .hugeit_ft_col i.fa {
+    position: relative;	
+}
+
+.hugeit_ft_col h3, .hugeit_ft_col h2, .hugeit_ft_col .hg_pt_row_item  {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.hugeit_ft_col h3.huge_it_features_buy_link {
+    font-weight: normal;
+    margin: 0;
+}
+
+.hugeit_ft_col h3:last-child {
+    border-bottom: 0;
+}
+
+.huge_it_best_seller span {
+    transform: rotate(45deg);
+    right: 0;
+    font-size: 10px;
+    color: #FFFFFF;
+    top: 18px;
+}
+
+.huge_it_best_seller:after {
+    right: 0;
+    border-width: 68px 0 0 68px;
+    border-color: #3BC6B8 transparent transparent transparent;
+}
+
+.hugeit_ft_col h3, .hugeit_ft_col h2, .hugeit_ft_col .hg_pt_row_item {
+    text-align: center;
+}
+
+.plugin_version_features .huge_it_features_head, .plugin_version_features .huge_it_features_purchase_text, .plugin_version_features .huge_it_features_price, .plugin_version_features .huge_it_features_price_text, .plugin_version_features .huge_it_features_features {
+    font-size: 13px;
+    border-bottom: 1px solid;
+    padding: 15px 0;
+}
+
+.plugin_version_features h3:not(:last-child) {
+    border-bottom: 1px solid;
+}
+
+.plugin_version_features .huge_it_features_head {
+    font-size: 23px;
+    padding: 20px 0;
+}
+
+.plugin_version_features .hugeit_ft_col i.fa {
+    font-size: 15px;
+}
+
+.plugin_version_features .huge_it_features_price {
+    font-size: 18px;
+}
+
+.plugin_version_features a.huge_it_features_buy_link_a {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.plugin_version_features a.huge_it_best_seller_button {
+    width: 70%;
+    padding: 8px 0;
+    color: #FFFFFF;
+    border: 2px solid #1BBC9D;
+    background-color: #1BBC9D;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.plugin_version_features a.huge_it_best_seller_button:hover {
+    color: #FFFFFF;
+    background-color: #24E0BA;
+    border-color: #1BBC9D;
+}
+
+@media screen and (max-width: 1003px) {
+    .plugin_version_features {
+        width: 100%;
+        overflow-x: auto;
+    }
+    .plugin_version_features .hugeit_ft_col {
+        width: 250px;
+        margin-left: 10px;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .plugin_version_features .hugeit_ft_col {
+        width: 200px;
+        margin-left: 6px;
+    }
+}

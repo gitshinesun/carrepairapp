@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Sidebar Manager 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-08 19:03+0200\n"
+"PO-Revision-Date: 2015-09-08 19:03+0200\n"
+"Last-Translator: Vuzzu <info@vuzzu.net>\n"
+"Language-Team: Vuzzu <info@vuzzu.net>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin_view.php:27
+msgid "Simple Background Manager settings"
+msgstr ""
+
+#: ../admin_view.php:29
+msgid "Below you can extend support for more post types:"
+msgstr ""
+
+#: ../admin_view.php:42
+msgid "Automatically inherit parent post/page SBM settings:"
+msgstr ""
+
+#: ../admin_view.php:46
+msgid "Automatically use featured image as background image:"
+msgstr ""
+
+#: ../admin_view.php:89
+#: ../vendor/vuzzu/utilizer-ui-elements/elements/file_input.php:17
+msgid "Width:"
+msgstr ""
+
+#: ../admin_view.php:90
+#: ../vendor/vuzzu/utilizer-ui-elements/elements/file_input.php:18
+msgid "Height:"
+msgstr ""
+
+#: ../admin_view.php:142
+msgid "Note: Inherit parent settings is on."
+msgstr ""
+
+#: ../admin_view.php:144
+msgid "Background color: <i class=\"fa fa-ellipsis-h toggle-hidden-input\"></i>"
+msgstr ""
+
+#: ../admin_view.php:147
+msgid "Background color opacity:"
+msgstr ""
+
+#: ../admin_view.php:152
+msgid "Currently using featured image as background image,"
+msgstr ""
+
+#: ../admin_view.php:152
+msgid "click here to change."
+msgstr ""
+
+#: ../admin_view.php:155
+msgid "Background image url:"
+msgstr ""
+
+# @ vz_front_terms
+#: ../admin_view.php:160
+msgid "None"
+msgstr ""
+
+#: ../admin_view.php:160
+msgid "Repeat"
+msgstr ""
+
+#: ../admin_view.php:160
+msgid "Repeat horizontally"
+msgstr ""
+
+#: ../admin_view.php:160
+msgid "Repeat vertically"
+msgstr ""
+
+#: ../admin_view.php:161
+msgid "Background image repeat"
+msgstr ""
+
+#: ../admin_view.php:163
+msgid "Background image fixed"
+msgstr ""
+
+#: ../simple-background-manager.php:62
+msgid "Simple Background Manager Settings"
+msgstr ""
+
+#: ../simple-background-manager.php:63 ../simple-background-manager.php:78
+msgid "Simple Background Manager"
+msgstr ""
+
+#: ../vendor/vuzzu/utilizer-ui-elements/elements/ajax_list_input.php:42
+msgid "Add new"
+msgstr ""
+
+#: ../vendor/vuzzu/utilizer-ui-elements/elements/color_picker_input.php:20
+msgid "Ok"
+msgstr ""
+
+#: ../vendor/vuzzu/utilizer-ui-elements/elements/file_input.php:37
+msgid "or"
+msgstr ""
+
+# @ vz_front_terms
+#: ../vendor/vuzzu/utilizer-ui-elements/elements/file_input.php:39
+msgid "Browse"
+msgstr ""
+
+#: ../vendor/vuzzu/utilizer-ui-elements/elements/font_awesome_input.php:15
+msgid "search icon..."
+msgstr ""

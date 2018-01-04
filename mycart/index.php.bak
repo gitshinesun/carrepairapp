@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Home|Restaurant Food</title>
+ </head>
+ <body>
+	<table style="width:100%;text-align:left">
+		<tr>
+			<td style="width:25%;height:20%;">
+				<a href="mailto:shinepower@yeah.net" data-type="mail"><h3>shinepower@yeah.net</h3></a>								
+			</td>
+			<td>
+				<span><h2>123-456-7890</h2></span>
+			</td>
+			<td>
+				<a href="mailto:shinepower@yeah.net" data-type="mail">f</a>				
+			</td>
+			<td>
+				<a href="mailto:shinepower@yeah.net" data-type="mail">in</a>
+			</td>
+		</tr>		
+	</table>
+	<hr/>
+	<table style="width:100%;text-align:left">
+		<tr>
+			<td style="width:45%;height:20%;">
+				<span><h3>RESTAURANT FOOD DELIVERY</h3></span>								
+			</td>
+			<td style="width:10%">
+				<p style="text-align: right; line-height: 30px;">Home</p>
+			</td>
+			<td style="width:10%">
+				<p style="text-align: right; line-height: 30px;">Shop</p>
+			</td>
+			<td style="width:10%">
+				<p style="text-align: right; line-height: 30px;">Book Online</p>
+			</td>
+			<td style="width:10%">
+				<p style="text-align: right; line-height: 30px;">Blog</p>
+			</td>
+			
+		</tr>		
+	</table>
+	<table style="width:100%;height:300px;text-align:left;background-color: lightblue;">
+		<tr>
+			<td style="width:45%;height:50%;">
+				<span style="font-size:35px;font-family:Arial;"><h1>OUR NEW<br> ARRIVALS <br>ARE HERE</h1></span>							
+			</td>
+			<td>
+				<img src="42b1a89e12724a17a6266eca0fee2cf1.webp" alt="Mountain View" style = "width: 560px; height: 440px">
+			</td>			
+		</tr>		
+	</table>
+ </body>
+</html>

@@ -1,0 +1,102 @@
+.pricing-builder {
+    font-family: 'Roboto', sans-serif;
+}
+
+.pricing-builder .pricing-builder-block {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-flex-flow: row wrap;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+    padding-top: 50px;
+}
+
+
+.pricing-builder .pricing-builder-block .licens {
+    width: 324px;
+    height: 115px;
+    background-color: #3bc6b8;
+    border-radius: 3px;
+    background-image: url(../images/licensing_sprite.png);
+    background-position: -131px -44px;
+    position: relative;
+    margin: 0 7px;
+    margin-bottom: 14px;
+}
+
+.pricing-builder .pricing-builder-block .licens a {
+    width: 100%;
+    height: 100%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-flex-flow: row wrap;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+}
+
+.pricing-builder .pricing-builder-block .licens:hover {
+    box-shadow: 0px 0px 5px 3px rgba(0, 0, 0, 0.25);
+}
+
+.pricing-builder .pricing-builder-block .licens .icon {
+    background-image: url(../images/licensing_sprite.png);
+}
+
+.pricing-builder .pricing-builder-block .licens .text {
+    color: #fff;
+    font-size: 19px;
+    text-transform: uppercase;
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    bottom: 20px;
+}
+
+.pricing-builder .pricing-builder-block .licens .layout {
+    width: 65px;
+    height: 49px;
+    background-position: -11px -356px;
+    margin-top: 19px;
+}
+
+.pricing-builder .pricing-builder-block .licens .styling {
+    width: 65px;
+    height: 55px;
+    background-position: -131px -352px;
+    margin-top: 16px;
+}
+
+.pricing-builder .pricing-builder-block .licens .columns {
+    width: 60px;
+    height: 60px;
+    background-position: -240px -349px;
+    margin-top: 11px;
+}
+
+.pricing-builder .pricing-builder-block .licens .button {
+    width: 92px;
+    height: 49px;
+    background-position: -326px -354px;
+    margin-top: 16px;
+}
+
+.pricing-builder .pricing-builder-block .licens .ribbon {
+    width: 40px;
+    height: 53px;
+    background-position: -443px -353px;
+    margin-top: 16px;
+}
+
+
